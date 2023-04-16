@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Software Technology
-- 🤔 &nbsp; Fake Wibu
-- 🎓 &nbsp; Fullstack developer
+- 🤔 &nbsp; Handsome boy
+- 🎓 &nbsp; Mobile developer & Web developer
 - 💼 &nbsp; Favourite: Football, Games, Music, Beautiful Girl :))
 - 🌱 &nbsp; Address: ...
 - ✍️ &nbsp; Email: quangrc2001@gmail.com
@@ -13,10 +13,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C++ | C# 
-- 🌐 &nbsp; React | Node | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp;  MySQL | SQLServer | MongoDB
-- 🔧 &nbsp; Visual Studio code | Eclipse | Git | Postman
+- 📱 &nbsp; Flutter | Dart  
+- 🌐 &nbsp; React | Node | C# | Java | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp;  MySQL | SQLServer | MongoDB | Firebase
+- 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git | Postman
 - 🖥 &nbsp;  Illustrator | Photoshop | Effect | Premiere | Media Encoder
 
 <br>
